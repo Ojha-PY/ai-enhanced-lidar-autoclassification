@@ -1,5 +1,5 @@
 # 🤖 **AI-Enhanced LiDAR Classification - Super Simple Guide**
-## **99.5%+ Accuracy - Step by Step Tutorial (Even Kids Can Do It!)**
+## **99.5%+ Accuracy - Step by Step Tutorial**
 
 [![Easy Setup](https://img.shields.io/badge/Setup-Super_Easy-green.svg)]()
 [![Child Friendly](https://img.shields.io/badge/Guide-Kid_Friendly-blue.svg)]()
