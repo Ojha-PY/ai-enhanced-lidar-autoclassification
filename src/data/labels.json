@@ -1,0 +1,40 @@
+{
+  "train": {
+    "mixed001.las": {
+      "mode": "classification",
+      "class": "Building"
+    },
+    "mixed002.ply": {
+      "mode": "segmentation",
+      "labels": ["Ground","Ground","Road","Vegetation","Vegetation","Other"]
+    },
+    "mixed003.laz": {
+      "mode": "classification",
+      "class": "Road"
+    }
+  },
+  "val": {
+    "mixed101.las": {
+      "mode": "classification",
+      "class": "Vegetation"
+    },
+    "mixed102.ply": {
+      "mode": "segmentation",
+      "labels": ["Road","Road","Ground","Ground","Fence"]
+    }
+  },
+  "test": {
+    "mixed201.las": {
+      "mode": "classification",
+      "class": "Vehicle"
+    },
+    "mixed202.ply": {
+      "mode": "segmentation",
+      "labels": ["Ground","Pedestrian","Pedestrian","Ground"]
+    },
+    "mixed203.laz": {
+      "mode": "classification",
+      "class": "Water"
+    }
+  }
+}
